@@ -1,0 +1,17 @@
+{
+  "repoProps": {
+    "name": "Blaze Marketplace Catalog",
+    "date_created": "Sat Aug 21 2021 14:14:00 GMT-0600 (GMT-06:00)",
+    "last_updated": "Sat Aug 21 2021 14:14:01 GMT-0600 (GMT-06:00)"
+  },
+
+  "CatalogConstants": {
+    "featuredAppTitle": "Featured App",
+    "collectionTitle": "Collection",
+    "collectionSubtitle": "Apps That Look Great in Dark Mode",
+    "collectionSubtitle2": "Dark is the new black.",
+    "collectionSubtitleIcon": "https://trail-blaze.github.io/res/Blaze/tbico.png",
+    "sectionOneTitle": "Apps and Games We Love Right Now",
+    "sectionTwoTitle": "Top Paid"
+  }
+}
