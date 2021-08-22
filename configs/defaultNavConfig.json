@@ -1,9 +1,0 @@
-{
-  "navElements": {
-    "nlink1": {
-      "displayText": "ElementOne",
-      "collapsable": false,
-      "hyperLinksTo": "#"
-    }
-  }
-}
