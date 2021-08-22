@@ -1,9 +1,19 @@
 {
-  "navElements": {
-    "nlink1": {
-      "displayText": "ElementOne",
-      "collapsable": false,
-      "hyperLinksTo": "#"
+    "navProps":{
+        "navElements": 1
+    },
+  
+    "navElements": {
+      "nlink1": {
+        "displayText": "ElementOne",
+        "collapsable": false,
+        "hyperLinksTo": "#"
+      },
+      "nlink2": {
+        "displayText": "ElementTwo",
+        "collapsable": false,
+        "hyperLinksTo": "#"
+      }
     }
   }
-}
+  
