@@ -1,19 +1,17 @@
 {
-    "navProps":{
-        "navElements": 2
+  "navProps": {
+    "navElements": 2
+  },
+  "navElements": {
+    "nlink1": {
+      "displayText": "View All Categories",
+      "collapsable": false,
+      "hyperLinksTo": "view_all.html"
     },
-  
-    "navElements": {
-      "nlink1": {
-        "displayText": "ElementOne",
-        "collapsable": false,
-        "hyperLinksTo": "#"
-      },
-      "nlink2": {
-        "displayText": "ElementTwo",
-        "collapsable": false,
-        "hyperLinksTo": "#"
-      }
+    "nlink2": {
+      "displayText": "Element Two",
+      "collapsable": false,
+      "hyperLinksTo": "#"
     }
   }
-  
+}
