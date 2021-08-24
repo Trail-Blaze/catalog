@@ -1,0 +1,11 @@
+{
+  "theme": "light",
+  "online": false,
+  "fn_path": " C:\\Program Files...",
+  "backend": {
+    "debug": true,
+    "auto-update": true
+  },
+  "server_ip": "default",
+  "release": "beta"
+}
