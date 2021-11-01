@@ -1,17 +1,25 @@
 {
   "navProps": {
-    "navElements": 2
+    "navElements": 3
   },
   "navElements": {
     "nlink1": {
+      "icon": "fas fa-list",
       "displayText": "View All Categories",
       "collapsable": false,
       "hyperLinksTo": "view_all.html"
     },
     "nlink2": {
-      "displayText": "Element Two",
+      "icon": "fas fa-cog",
+      "displayText": "Settings",
       "collapsable": false,
-      "hyperLinksTo": "#"
+      "hyperLinksTo": "settings.html"
+    },
+    "nlink3": {
+      "icon": "fas fa-info-circle",
+      "displayText": "About Launcher",
+      "collapsable": false,
+      "hyperLinksTo": "aboutOtto.html"
     }
   }
 }
