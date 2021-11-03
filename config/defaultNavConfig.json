@@ -1,21 +1,27 @@
 {
   "navProps": {
-    "navElements": 3
+    "navElements": 4
   },
   "navElements": {
     "nlink1": {
+      "icon": "fas fa-scroll",
+      "displayText": "Setup",
+      "collapsable": false,
+      "hyperLinksTo": "escrow.html"
+    },
+    "nlink2": {
       "icon": "fas fa-list",
       "displayText": "View All Categories",
       "collapsable": false,
       "hyperLinksTo": "view_all.html"
     },
-    "nlink2": {
+    "nlink3": {
       "icon": "fas fa-cog",
       "displayText": "Settings",
       "collapsable": false,
       "hyperLinksTo": "settings.html"
     },
-    "nlink3": {
+    "nlink4": {
       "icon": "fas fa-info-circle",
       "displayText": "About Launcher",
       "collapsable": false,
