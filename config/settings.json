@@ -13,5 +13,6 @@
     "path1": "C:\\Blaze\\path1.png"
   },
   "server_ip": "default",
-  "release": "beta"
+  "release": "beta",
+  "bypassMethod": "platinum"
 }
