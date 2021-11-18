@@ -1,0 +1,13 @@
+{
+  "navProps": {
+    "navElements": 1
+  },
+  "navElements": {
+    "nlink1": {
+      "icon": "fas fa-scroll",
+      "displayText": "Setup",
+      "collapsable": false,
+      "hyperLinksTo": "escrow.html"
+    }
+  }
+}
