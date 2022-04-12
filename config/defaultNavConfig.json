@@ -11,9 +11,9 @@
     },
     "nlink2": {
       "icon": "fas fa-list",
-      "displayText": "View All Categories",
+      "displayText": "Server Listings",
       "collapsable": false,
-      "hyperLinksTo": "view_all.html"
+      "hyperLinksTo": "servers.html"
     },
     "nlink3": {
       "icon": "fas fa-cog",
