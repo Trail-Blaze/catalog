@@ -1,6 +1,6 @@
 {
    "navProps": {
-      "navElements": 5
+      "navElements": 6
    },
    "navElements": {
       "nlink1": {
@@ -32,6 +32,12 @@
          "displayText": "Credits",
          "collapsable": false,
          "hyperLinksTo": "credits.html"
+      }
+       "nlink6": {
+         "icon": "fas fa-upload",
+         "displayText": "Update Navigation",
+         "collapsable": false,
+         "hyperLinksTo": "updateNav.html"
       }
    }
 }
