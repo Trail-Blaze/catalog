@@ -37,7 +37,7 @@
          "icon": "fas fa-upload",
          "displayText": "Update Navigation",
          "collapsable": false,
-         "hyperLinksTo": "updateNav.html"
+         "hyperLinksTo": "update.html"
       }
    }
 }
