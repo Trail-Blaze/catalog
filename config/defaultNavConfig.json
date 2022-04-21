@@ -4,8 +4,8 @@
    },
    "navElements": {
       "nlink1": {
-         "icon": "fas fa-scroll",
-         "displayText": "Setup",
+         "icon": "fas fa-play",
+         "displayText": "Boot",
          "collapsable": false,
          "hyperLinksTo": "escrow.html"
       },
