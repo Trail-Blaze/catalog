@@ -15,5 +15,5 @@
   "server_ip": "default",
   "release": "beta",
   "bypassMethod": "platinum",
-  "tracking": false
+  "tracking": true
 }
