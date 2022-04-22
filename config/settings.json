@@ -1,6 +1,6 @@
 {
-  "theme": "light",
-  "online": false,
+  "theme": "dark",
+  "online": true,
   "fn_path": " C:\\Program Files...",
   "backend": {
     "debug": true,
@@ -14,5 +14,6 @@
   },
   "server_ip": "default",
   "release": "beta",
-  "bypassMethod": "platinum"
+  "bypassMethod": "platinum",
+  "tracking": false
 }
