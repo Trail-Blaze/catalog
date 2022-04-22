@@ -34,7 +34,7 @@
          "hyperLinksTo": "credits.html"
       },
       "nlink6": {
-         "icon": "fas fa-refresh",
+         "icon": "fas fa-arrows-rotate",
          "displayText": "Update Navigation",
          "collapsable": false,
          "hyperLinksTo": "update.html"
