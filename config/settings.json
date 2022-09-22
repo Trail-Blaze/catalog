@@ -1,8 +1,10 @@
 {
   "theme": "dark",
+  "shopEndpoint": "https://trail-blaze.github.io/catalog",
   "online": true,
   "fn_path": " C:\\Program Files...",
   "backend": {
+    "uses": "Dynamite Core",
     "debug": true,
     "auto_update": true
   },
